@@ -1,3 +1,9 @@
 4주차
 리눅스 기초 명령
-pull
+-pull, fetch
+go 환경 셋업
+-컴파일러 설치(do.dev/dl)
+ vsc 확장 프러그인 go 설치, go 도구 업데이트
+ sample 폴더 만들고 vsc에 터미널에서 실행
+-go mod init sample
+-cd sample
