@@ -7,3 +7,4 @@ go 환경 셋업
  sample 폴더 만들고 vsc에 터미널에서 실행
 -go mod init sample
 -cd sample
+-git(실험용)
